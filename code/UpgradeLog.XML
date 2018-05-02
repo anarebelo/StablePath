@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="staffDetection">
+</Property><Property Name="Solution File" Value="C:\Users\arebelo\Desktop\lixo\staffDetection.sln">
+</Property><Property Name="User Options File" Value="C:\Users\arebelo\Desktop\lixo\staffDetection.suo">
+</Property><Property Name="Date" Value="20 December 2010">
+</Property><Property Name="Time" Value="10:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="staffDetection.sln" Description="File successfully backed up as C:\Users\arebelo\Desktop\lixo\staffDetection.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="staffDetection.suo" Description="File successfully backed up as C:\Users\arebelo\Desktop\lixo\staffDetection.suo.old">
+</Event><Event ErrorLevel="0" Project="staffDetection" Source="staffDetection.vcproj" Description="Converting project file 'C:\Users\arebelo\Desktop\lixo\staffDetection.vcproj'.">
+</Event><Event ErrorLevel="1" Project="staffDetection" Source="staffDetection.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="staffDetection" Source="staffDetection.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="staffDetection" Source="staffDetection.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="staffDetection" Source="staffDetection.vcproj" Description="Done converting to new project file 'C:\Users\arebelo\Desktop\lixo\staffDetection.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="staffDetection" Source="staffDetection.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="staffDetection.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="staffDetection.sln" Description="Converted">
+</Event></UpgradeLog>
